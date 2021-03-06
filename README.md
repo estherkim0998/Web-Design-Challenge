@@ -5,3 +5,4 @@ Please refer to Visualizations folder for all images used.
 
 Please visit full site via github pages url. 
 
+https://estherkim0998.github.io/Web-Design-Challenge/
